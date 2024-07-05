@@ -5,7 +5,11 @@ project based class, andthis is the second project required for the course.
 I completed this project in Fall 2023.
 
 # Preview
-<img src="/Preview.jpg" width = "200"/>
+<div style="display: flex; justify-content: space-between;">
+    <img src="/Preview.jpg" width="200" style="margin-right: 10px;">
+    <img src="/Preview2.jpg" width="200" style="margin-right: 10px;">
+    <img src="/Preview3.jpg" width="200;">
+</div>
 
 
 # How to use
